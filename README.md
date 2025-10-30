@@ -193,17 +193,6 @@ The dashboard automatically generates insights such as:
 - Close unused browser tabs while running
 - Clear cache if data seems stale (click ⋮ → Settings → Clear cache)
 
-## 🤝 Support
-
-For issues, questions, or feature requests:
-- Create an issue in the repository
-- Email: support@yourcompany.com
-- Documentation: [Link to docs]
-
-## 📝 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 ## 🙏 Acknowledgments
 
 Built with:
@@ -211,14 +200,6 @@ Built with:
 - [Plotly](https://plotly.com/) - Interactive visualizations
 - [Pandas](https://pandas.pydata.org/) - Data processing
 - [FPDF](http://www.fpdf.org/) - PDF generation
-
----
-
-**Version**: 1.0.0  
-**Last Updated**: October 2024  
-**Author**: Your Name/Company
-
----
 
 ## 🚀 Quick Start Example
 
@@ -232,5 +213,3 @@ streamlit run sales_dashboard_pro.py
 # 3. Upload your sales data file
 # 4. Start analyzing!
 ```
-
-**Made with Abdelrahman Nabil for data-driven e-commerce growth**
